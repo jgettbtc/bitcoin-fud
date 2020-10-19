@@ -1,1 +1,1 @@
-# bitcoin-fud
+# Bitcoin FUD Info
